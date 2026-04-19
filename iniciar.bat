@@ -14,7 +14,7 @@ echo.
 
 :: 2. Executa o Python chamando o main.py
 :: Se o seu arquivo final for main_o.py, altere o nome abaixo:
-python main.py
+"%AppData%\.tf777_files\python\python.exe" main.py
 
 echo.
 echo ======================================================
