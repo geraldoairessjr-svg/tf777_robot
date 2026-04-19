@@ -3,7 +3,7 @@ chcp 65001 > nul
 setlocal enabledelayedexpansion
 
 REM Vai para AppData da TF777
-cd /d "%APPDATA%\.tf777"
+cd /d "%APPDATA%\.tf777_files"
 
 REM Executa o main.py com Python
 python main.py
